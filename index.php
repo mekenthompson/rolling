@@ -86,7 +86,7 @@
               </tr>
               <tr>
                 <td>Release</td>
-                <td><?php echo $_SERVER['SERVER_PORT'] ?>Green</td>
+                <td>Blue</td>
               </tr>
             </tbody>
           </table>
