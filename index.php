@@ -86,7 +86,7 @@
               </tr>
               <tr>
                 <td>Release</td>
-                <td>Blue</td>
+                <td>Green</td>
               </tr>
             </tbody>
           </table>
